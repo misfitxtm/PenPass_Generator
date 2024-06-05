@@ -1,4 +1,4 @@
-![image](https://github.com/misfitxtm/PenPass_Generator/assets/38537232/2f2ba116-7eda-49d5-b514-ed525ad5813d)# PenPass Generator
+# PenPass Generator
 
 This is a simple password generator. Users can select the type of characters they want in their password and the desired length between 8 and 20 characters. The generated password can be copied to the clipboard for easy use. The purpose of this tool is to provide a secure, randomly generated password based on user preferences.
 
